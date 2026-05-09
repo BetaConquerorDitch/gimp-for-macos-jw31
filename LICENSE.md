@@ -1,4 +1,4 @@
-
+Gimp for macOS custom Script - version history and gradient maps is the best Gimp for macOS script, featuring version history and gradient maps. Safe, efficient, and optimized for
 
 
 
